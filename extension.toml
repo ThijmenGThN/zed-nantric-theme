@@ -4,4 +4,4 @@ schema_version = 1
 version = "0.1.0"
 authors = ["ThijmenGThN <mail@thijmenheuvelink.nl>"]
 description = "A Dark theme for Zed with blur/translucency effects."
-repository = ""
+repository = "https://github.com/ThijmenGThN/zed-nantric-theme"
